@@ -9,7 +9,7 @@
 ### 注意事项
 1. 中文文献请自行添加，本格式无法支持（中英对照格式）
 2. 从PubMed导入进EndNote的文章 可能无法进行期刊修改为全名的操作请按以下步骤进行
-- 1. 参考https://www.howsci.com/endnote-term-lists.html进行操作
+- 1. 参考https://www.howsci.com/endnote-term-lists.html 进行操作
 - 2. 下载shit.txt，并以同样的方法导入术语表
 - 3. 在Word中Update
 - 4. 有部分期刊可能会有遗漏，需要自行检查更正（endnote中自带的只支持到2012前创刊的，我的这个也是从别人那改动的）
